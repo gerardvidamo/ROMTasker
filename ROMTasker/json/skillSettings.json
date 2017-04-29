@@ -18,13 +18,13 @@
         "Skill4CoolDown": 0,
         "Skill5CoolDown": 0,
         "Skill6CoolDown": 0,
-        "EnablePlayDead": false,
-        "PlayDeadSlotKey": 0,
+        "EnablePlayDead": true,
+        "PlayDeadSlotKey": 1,
         "PlayDeadTimeout": 0,
-        "EnableTepeleport": false,
-        "EnableHP": false,
-        "HPPercentage": 0,
-        "EnableSP": false,
-        "SPPercentage": 0
+        "EnableTepeleport": true,
+        "EnableHP": true,
+        "HPPercentage": 25,
+        "EnableSP": true,
+        "SPPercentage": 10
     }
 ]
