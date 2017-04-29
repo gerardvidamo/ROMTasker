@@ -1,0 +1,37 @@
+[
+  {
+    "MobId": 1,
+    "Name_en": "Archer Skeleton",
+    "Name_ch": "邪骸弓箭手"
+  },
+  {
+    "MobId": 2,
+    "Name_en": "Giearth",
+    "Name_ch": "基尔瑟"
+  },
+  {
+    "MobId": 3,
+    "Name_en": "Hydra★",
+    "Name_ch": "海葵★"
+  },
+  {
+    "MobId": 4,
+    "Name_en": "Marc★",
+    "Name_ch": "马克★"
+  },
+  {
+    "MobId": 5,
+    "Name_en": "Minorous",
+    "Name_ch": "米诺斯"
+  },
+  {
+    "MobId": 6,
+    "Name_en": "Orc Archer",
+    "Name_ch": "兽人弓箭手"
+  },
+  {
+    "MobId": 7,
+    "Name_en": "Soldier Skeleton",
+    "Name_ch": "邪骸士兵"
+  }
+]
